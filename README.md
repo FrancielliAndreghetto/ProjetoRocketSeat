@@ -16,7 +16,9 @@
 ## Tecnologias utilizadas
 
 -HTML e CSS
+<br>
 -JavaScript
+<br>
 -Git e Github
 
 ## Projeto
