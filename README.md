@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img alt="Projeto Devlinks" src=".github/preview.png" width="100%">
+  <img alt="Projeto Devlinks" src="./preview.png" width="100%">
 </p>
 
 ## Tecnologias utilizadas
